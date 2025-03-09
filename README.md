@@ -1,19 +1,18 @@
 # NTX LP Clone
 **[URL](#):** [https://ntx-lp-clone3project.netlify.app/](https://ntx-lp-clone3project.netlify.app/)
 
-## Descripción
-NTX LP Clone es una réplica de una página de aterrizaje (landing page) diseñada para promocionar un producto o servicio. Este proyecto demuestra habilidades en diseño web y recreación de interfaces modernas y atractivas.
+## Description
+NTX LP Clone is a replica of a landing page designed to promote a product or service. This project showcases skills in web design and the recreation of modern, appealing interfaces.
 
-## Características
-- Diseño visualmente atractivo con secciones bien definidas.
-- Optimización para dispositivos móviles (responsividad).
-- Enfoque en la conversión del usuario (call-to-action claro).
+## Features
+- Visually appealing design with well-defined sections.
+- Mobile-optimized (responsive) layout.
+- Focus on user conversion with a clear call-to-action.
 
-## Tecnologías utilizadas (estimadas)
+## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript.
-- **Estilos:** Tailwind CSS o Bootstrap (posiblemente).
-- **Despliegue:** Netlify.
+- **Deployment:** Netlify.
 
-## Instalación y uso
-1. Visita: [https://ntx-lp-clone3project.netlify.app/](https://ntx-lp-clone3project.netlify.app/).
-2. Navega por la página para explorar su diseño y estructura.
+## Installation and Usage
+1. Visit: [https://ntx-lp-clone3project.netlify.app/](https://ntx-lp-clone3project.netlify.app/).
+2. Navigate the page to explore its design and structure.
